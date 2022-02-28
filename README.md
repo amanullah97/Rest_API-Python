@@ -1,2 +1,15 @@
 # Rest_API-Python
-Simple Rest API with Python/Flask, 
+
+REQUIREMENTS:
+FLASK
+PYTHON
+FLASK SQLALCHEMY
+FLASK MARSHMALLOW
+
+
+END POINTS:
+GET /product
+GET /product/:id
+POST /product
+PUT /product/:id
+DELETE /product/:id
